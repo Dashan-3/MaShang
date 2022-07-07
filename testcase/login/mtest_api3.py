@@ -17,3 +17,6 @@ class TestApi2:
 
     def test_duo_class(self):
         print('多个类的情况')
+
+    def test_duo_class1(self):
+        print('多个方法的情况')
