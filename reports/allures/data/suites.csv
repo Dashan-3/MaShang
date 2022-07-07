@@ -1,0 +1,5 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Jul 07 09:49:59 CST 2022","Thu Jul 07 09:49:59 CST 2022","0","testcase.login","test_api3","TestApi2","","","test_duo_class",""
+"passed","Thu Jul 07 09:49:59 CST 2022","Thu Jul 07 09:49:59 CST 2022","0","testcase.login","test_api3","TestApi1","","","test_tengxun",""
+"passed","Thu Jul 07 09:49:59 CST 2022","Thu Jul 07 09:49:59 CST 2022","0","testcase.login","test_api3","TestApi1","","","test_baidu",""
+"passed","Thu Jul 07 09:49:59 CST 2022","Thu Jul 07 09:49:59 CST 2022","0","testcase.login","test_api3","TestApi1","","","test_sougou",""
